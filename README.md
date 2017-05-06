@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the king
 
-You can use the [editor on GitHub](https://github.com/mincamiamei/foca/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Quando il padre del piccolo Arthur viene assassinato, suo zio Vortigern si impadronisce del trono. Derubato dei diritti che gli spetterebbero per nascita e senza sapere chi è realmente, Arthur riesce a sopravvivere nei vicoli oscuri della città e solo quando estrae la mitica spada dalla roccia la sua vita cambia radicalmente ed è costretto ad accettare la sua vera eredità che gli piaccia o no.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
